@@ -20,7 +20,7 @@ Navigate to the heroku page via the link below.
 
 [Link]https://github.com/trudman/tech-blog
 
-[Link]
+[Link]https://tech-blog-trudman.herokuapp.com/
 
 ![Screenshot](/Assets/Screenshot%202023-02-09%20at%205.16.36%20PM.png)
 
